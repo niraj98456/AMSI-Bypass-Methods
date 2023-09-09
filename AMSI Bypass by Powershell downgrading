@@ -1,1 +1,6 @@
 If running a power-shell based payload and AMSI blocks it, you can downgrade your powershell version to 2.0 as AMSI is only supported beyond v2.0.
+
+cmd to downgrade powershell to version 2. Make sure version 2 .net framework is installed.
+
+"Powershell -version 2"
+
