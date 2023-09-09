@@ -1,8 +1,8 @@
 # AMSI-Bypass-Methods
-Numerous AMSI, AV and EDR Bypass Method are explained below.
-**1. Powershell Downgrade**
-**2. Obfuscation**
-**3. Forcing an error**
+
+1. Powershell Downgrade
+2. Obfuscation
+3. Forcing an error
 4. Memory Hijacking
 5. Memory Hijacking (obfuscated opcodes)
 6. AMSI bypass by reflection
