@@ -1,7 +1,7 @@
 # AMSI-Bypass-Methods
 
 1. Powershell Downgrade
-![image](https://github.com/niraj98456/AMSI-Bypass-Methods/assets/71953377/210ed953-438b-4e0a-aeb2-b2216484046c)
+![image](https://github.com/niraj98456/AMSI-Bypass-Methods/assets/71953377/da7a114a-3407-4793-aafd-36c4e960bf07)
 ![image](https://github.com/niraj98456/AMSI-Bypass-Methods/assets/71953377/570c4611-603b-43ce-a326-dcb5d631f3b6)
 ![image](https://github.com/niraj98456/AMSI-Bypass-Methods/assets/71953377/449a50bd-fbbd-4d4d-b8ff-a2cab3a0355b)
 ![image](https://github.com/niraj98456/AMSI-Bypass-Methods/assets/71953377/aa840cc1-27fe-4b1b-b883-7275834b9b4e)
